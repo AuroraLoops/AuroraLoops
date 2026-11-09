@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="AuroraLoops — Code, curiosity and little discoveries">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#17223b"/></linearGradient>
+<linearGradient id="glow"><stop stop-color="#5eead4"/><stop offset=".5" stop-color="#8b9cff"/><stop offset="1" stop-color="#d8b4fe"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="url(#glow)">
+<ellipse cx="985" cy="140" rx="205" ry="64" transform="rotate(-30 985 140)" opacity=".6" stroke-width="2"/>
+<ellipse cx="985" cy="140" rx="160" ry="104" transform="rotate(32 985 140)" opacity=".35"/>
+<circle cx="985" cy="140" r="79" stroke-width="2" opacity=".7"/>
+<path d="M0 254 Q220 145 480 237 T1200 213" opacity=".4" stroke-width="2"/>
+<path d="M0 270 Q250 180 510 252 T1200 230" opacity=".16"/>
+</g>
+<circle cx="1053" cy="99" r="5" fill="#5eead4"/>
+<circle cx="844" cy="184" r="3" fill="#c4b5fd"/>
+<text x="64" y="77" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="5">HELLO, WORLD</text>
+<text x="60" y="151" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">AuroraLoops</text>
+<text x="64" y="195" fill="#b6c6df" font-family="Segoe UI,Arial,sans-serif" font-size="21">Code, curiosity &amp; little discoveries.</text>
+</svg>
